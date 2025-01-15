@@ -1,5 +1,5 @@
 # Node.js modules
-node_modules/
+/node_modules/
 
 # Logs
 npm-debug.log*
@@ -7,8 +7,8 @@ yarn-debug.log*
 yarn-error.log*
 
 # VitePress build output
-docs/.vitepress/dist/
-docs/.vitepress/cache/
+/docs/.vitepress/dist/
+/docs/.vitepress/cache/
 
 # Local environment settings
 .env
