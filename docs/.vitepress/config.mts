@@ -3,6 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "app manual",
+  base: '/manual/'
   description: "app decribe,manual",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config

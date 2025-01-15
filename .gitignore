@@ -1,0 +1,36 @@
+# Node.js modules
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# VitePress build output
+docs/.vitepress/dist/
+docs/.vitepress/cache/
+
+# Local environment settings
+.env
+.env.local
+.env.*.local
+
+# IDE-specific settings
+.vscode/
+.idea/
+.vitepress
+
+# MacOS system files
+.DS_Store
+
+# Temporary files and directories
+*.log
+*.tmp
+*.swp
+*.swo
+*.bak
+*.orig
+Thumbs.db
+
+# Deployment script output (if any)
+deploy.sh
