@@ -17,8 +17,8 @@ yarn-error.log*
 
 # IDE-specific settings
 .vscode/
-.idea/
-.vitepress
+/.idea/
+/.vitepress
 
 # MacOS system files
 .DS_Store
