@@ -3,16 +3,16 @@
 layout: home
 
 hero:
-  name: "app manual"
-  text: "app decribe,manual"
-  tagline: My great project tagline
+  name: "我们的作品"
+  text: "欢迎下载体验"
+  tagline: 改变从此刻开始
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: 小习惯
+      link: /habit/home
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: 萌猪记账
+      link: /itally/home
 
 features:
   - title: Feature A
