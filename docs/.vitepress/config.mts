@@ -25,7 +25,7 @@ export default defineConfig({
 
       },
       { text: '萌猪记账', link: '/itally/home' },
-      { text: '爱时间', link: '/itime/privacy' },
+      { text: '爱时间', link: '/itime/home' },
       { text: '读书笔记', link: '/itally/home' }
     ],
 
@@ -44,6 +44,14 @@ export default defineConfig({
         items: [
            { text: '隐私政策', link: '/habit/privacy' },
            { text: '用户协议', link: '/habit/service' }
+        ]
+      },
+      {
+        text: '爱时间',
+        collapsed: true,
+        items: [
+           { text: '隐私政策', link: '/itime/privacy' },
+           { text: '用户协议', link: '/itime/service' }
         ]
       }
     ],
