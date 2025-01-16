@@ -25,7 +25,7 @@ export default defineConfig({
 
       },
       { text: '萌猪记账', link: '/itally/home' },
-      { text: '爱时间', link: '/habit/home' },
+      { text: '爱时间', link: '/itime/privacy' },
       { text: '读书笔记', link: '/itally/home' }
     ],
 
