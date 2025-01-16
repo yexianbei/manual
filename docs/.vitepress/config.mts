@@ -9,7 +9,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '首页', link: '/' },
-      { text: '小习惯', link: '/habit/home' }
+      { text: '小习惯', link: '/habit/home' },
       { text: '萌猪记账', link: '/itally/home' }
     ],
 
