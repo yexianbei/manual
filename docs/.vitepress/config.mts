@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "App使用说明",
-  base: '/manual/',
+  base: '/',
   description: "App使用说明",
   head: [
       ['link', { rel: 'icon', href: '/favico.ico'}]
