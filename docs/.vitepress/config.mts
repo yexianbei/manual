@@ -9,8 +9,8 @@ export default defineConfig({
       ['link', { rel: 'icon', href: '/favico.ico'}]
   ],
   themeConfig: {
-    logo: '/icon/taiyang.svg',
-    siteTitle: '小习惯App',
+//     logo: '/icon/taiyang.svg',
+//     siteTitle: '小习惯App',
     search: {
       provider: 'local'
     },
