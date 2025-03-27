@@ -60,17 +60,5 @@ features:
     details: 独特的锁机功能，帮助你远离手机干扰，专注于学习和工作
     link: /habit/home
     linkText: 了解更多
-  - title: 桌面小组件
-    icon:
-      src: /icon/app_icon.png
-    details: 便捷的桌面小组件，随时查看进度，一键打卡，让习惯养成更轻松
-    link: /habit/home
-    linkText: 了解更多
-  - title: 极简无广告
-    icon:
-      src: /icon/app_icon.png
-    details: 清爽简约的界面设计，无广告干扰，让你专注于提升自己
-    link: /habit/home
-    linkText: 了解更多
 ---
 
