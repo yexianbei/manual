@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "我们的作品"
+  name: "小习惯App"
   text: "欢迎下载体验"
   tagline: 改变从此刻开始
   image:
@@ -11,42 +11,66 @@ hero:
     alt: 小习惯
   actions:
     - theme: brand
-      text: 小习惯
+      text: 设计理念
       link: /habit/home
     - theme: brand
-      text: 萌猪记账
+      text: 常见问题
       link: /itally/home
     - theme: brand
-      text: 爱时间
+      text: 使用说明
       link: /habit/home
     - theme: brand
-      text: 读书笔记
+      text: 关于我们
       link: /itally/home
 
 features:
-  - title: 小习惯
+  - title: 科学养成好习惯
     icon:
       src: /icon/app_icon.png
-    details: 习惯养成，改变从此刻开始
+    details: 基于《微习惯》与《原子习惯》理论，从小事开始，逐步建立可持续的好习惯
     link: /habit/home
-    linkText: 查看详情
-  - title: 萌猪记账
+    linkText: 了解更多
+  - title: 高效时间管理
     icon:
-      src: /icon/itally_app_icon.png
-    details: 省钱理财，早日实现财务自由
+      src: /icon/app_icon.png
+    details: 结合番茄工作法，智能提醒，帮助你告别拖延，提升专注力和工作效率
     link: /habit/home
-    linkText: 查看详情
-  - title: 爱时间
+    linkText: 了解更多
+  - title: 数据可视化反馈
     icon:
-      src: /icon/ic_itime_white.jpg
-    details: 时间管理，做时间的主人
+      src: /icon/app_icon.png
+    details: 详细的打卡记录与统计分析，清晰展示你的进步轨迹，优化习惯养成策略
     link: /habit/home
-    linkText: 查看详情
-  - title: 读书笔记
+    linkText: 了解更多
+  - title: 全方位自律提升
     icon:
-      src: /icon/read_icon.jpg
-    details: 收藏记录每一段优美的语句
+      src: /icon/app_icon.png
+    details: 从学习打卡到健康管理，支持多样化的习惯养成，打造专属的自律空间
     link: /habit/home
-    linkText: 查看详情
+    linkText: 了解更多
+  - title: 智能提醒系统
+    icon:
+      src: /icon/app_icon.png
+    details: 智能化的提醒机制，确保你不会错过任何重要的习惯打卡和目标追踪
+    link: /habit/home
+    linkText: 了解更多
+  - title: 学霸锁机模式
+    icon:
+      src: /icon/app_icon.png
+    details: 独特的锁机功能，帮助你远离手机干扰，专注于学习和工作
+    link: /habit/home
+    linkText: 了解更多
+  - title: 桌面小组件
+    icon:
+      src: /icon/app_icon.png
+    details: 便捷的桌面小组件，随时查看进度，一键打卡，让习惯养成更轻松
+    link: /habit/home
+    linkText: 了解更多
+  - title: 极简无广告
+    icon:
+      src: /icon/app_icon.png
+    details: 清爽简约的界面设计，无广告干扰，让你专注于提升自己
+    link: /habit/home
+    linkText: 了解更多
 ---
 

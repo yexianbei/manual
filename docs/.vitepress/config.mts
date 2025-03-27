@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "App使用说明",
+  title: "小习惯App",
   base: '/',
   description: "App使用说明",
   head: [
@@ -10,28 +10,28 @@ export default defineConfig({
   ],
   themeConfig: {
     logo: '/icon/taiyang.svg',
-    siteTitle: 'App使用说明',
+    siteTitle: '小习惯App',
     search: {
       provider: 'local'
     },
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '首页', link: '/' },
-      { text: '小习惯',
+      { text: '入门教程',
         items: [
-          { text: '首页', link: '/habit/home'},
+          { text: '设计理念', link: '/habit/home'},
           { text: '快速入门', link: '/habit/home'},
         ]
 
       },
-      { text: '萌猪记账', link: '/itally/home' },
-      { text: '爱时间', link: '/itime/home' },
-      { text: '读书笔记', link: '/itally/home' }
+      { text: '使用说明', link: '/itally/home' },
+      { text: '常见问题', link: '/itime/home' },
+      { text: '关于我们', link: '/itally/home' }
     ],
 
     sidebar: [
       {
-        text: '小习惯',
+        text: '设计理念',
         collapsed: true,
         items: [
           { text: '隐私政策', link: '/habit/privacy' },
@@ -39,7 +39,7 @@ export default defineConfig({
         ]
       },
       {
-        text: '萌猪记账',
+        text: '使用说明',
         collapsed: true,
         items: [
            { text: '隐私政策', link: '/habit/privacy' },
@@ -47,7 +47,7 @@ export default defineConfig({
         ]
       },
       {
-        text: '爱时间',
+        text: '常见问题',
         collapsed: true,
         items: [
            { text: '隐私政策', link: '/itime/privacy' },
