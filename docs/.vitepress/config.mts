@@ -4,13 +4,10 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "小习惯",
   base: '/',
-  description: "App使用说明",
   head: [
       ['link', { rel: 'icon', href: '/favico.ico'}]
   ],
   themeConfig: {
-//     logo: '/icon/taiyang.svg',
-//     siteTitle: '小习惯App',
     search: {
       provider: 'local'
     },
@@ -24,19 +21,12 @@ export default defineConfig({
         ]
 
       },
-      { text: '常见问题', link: '/itime/home' },
+      { text: '常见问题', link: '/habit/qa' },
       { text: '关于我们', link: '/itally/home' }
     ],
 
     sidebar: [
-      {
-        text: '设计理念',
-        collapsed: true,
-        items: [
-          { text: '隐私政策', link: '/habit/privacy' },
-          { text: '用户协议', link: '/habit/service' }
-        ]
-      },
+      { text: '设计基础', link: '/habit/theory'},
       {
         text: '使用说明',
         collapsed: true,
@@ -45,14 +35,9 @@ export default defineConfig({
            { text: '用户协议', link: '/habit/service' }
         ]
       },
-      {
-        text: '常见问题',
-        collapsed: true,
-        items: [
-           { text: '隐私政策', link: '/itime/privacy' },
-           { text: '用户协议', link: '/itime/service' }
-        ]
-      }
+      { text: '常见问题', link: '/habit/qa' },
+      { text: '隐私政策', link: '/habit/privacy' },
+      { text: '用户协议', link: '/habit/service' }
     ],
 
     socialLinks: [
@@ -69,7 +54,11 @@ export default defineConfig({
     footer: {
           message: '版权所有.',
           copyright: 'Copyright © 2018 - 2025 by 先北科技'
-        }
+        },
+    docFooter: {
+          prev: '上一页',
+          next: '下一页'
+        },
 
   }
 })

@@ -1,3 +1,12 @@
+---
+prev:
+  text: '自定义上一页文本'
+  link: '/custom-path'
+next:
+  text: '自定义下一页文本'
+  link: '/another-path'
+---
+
 小习惯-隐私政策
 
 隐私政策
