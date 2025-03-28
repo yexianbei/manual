@@ -55,6 +55,7 @@ export default defineConfig({
           message: '版权所有.',
           copyright: 'Copyright © 2018 - 2025 by 先北科技'
         },
+    outlineTitle: '本页目录',  // 添加这一行来修改右侧目录标题
     docFooter: {
           prev: '上一页',
           next: '下一页'
