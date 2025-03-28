@@ -9,17 +9,19 @@ hero:
   image:
     src: /icon/taiyang.svg
     alt: 小习惯
+    width: 200
+    height: 200
   actions:
-    - theme: brand
-      text: 设计理念
-      link: /habit/home
-    - theme: brand
+    # - theme: alt
+    #   text: 设计理念
+    #   link: /habit/home
+    - theme: sponsor
       text: 常见问题
       link: /itally/home
-    - theme: brand
+    - theme: sponsor
       text: 使用说明
       link: /habit/home
-    - theme: brand
+    - theme: sponsor
       text: 关于我们
       link: /itally/home
 

@@ -2,29 +2,28 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "小习惯App",
+  title: "小习惯",
   base: '/',
   description: "App使用说明",
   head: [
       ['link', { rel: 'icon', href: '/favico.ico'}]
   ],
   themeConfig: {
-    logo: '/icon/taiyang.svg',
-    siteTitle: '小习惯App',
+//     logo: '/icon/taiyang.svg',
+//     siteTitle: '小习惯App',
     search: {
       provider: 'local'
     },
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '首页', link: '/' },
-      { text: '入门教程',
+      { text: '使用说明',
         items: [
           { text: '设计理念', link: '/habit/home'},
           { text: '快速入门', link: '/habit/home'},
         ]
 
       },
-      { text: '使用说明', link: '/itally/home' },
       { text: '常见问题', link: '/itime/home' },
       { text: '关于我们', link: '/itally/home' }
     ],
