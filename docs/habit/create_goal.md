@@ -41,4 +41,4 @@ A: 在目标详情页面点击"编辑"按钮即可修改目标信息。
 **Q: 目标完成后会怎样？**  
 A: 目标完成后会进入"已完成"列表，你可以选择归档或删除。
 
-[返回功能导游](/Users/yezhidong/Documents/habit_manual/docs/FunctionGuider.md)
+[返回功能导游](/FunctionGuider.md)
