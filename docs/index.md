@@ -17,13 +17,13 @@ hero:
     #   link: /habit/home
     - theme: sponsor
       text: 常见问题
-      link: /itally/home
+      link: /habit/qa
     - theme: sponsor
-      text: 使用说明
-      link: /habit/home
+      text: 用户指南
+      link: /UserGuider
     - theme: sponsor
       text: 关于我们
-      link: /itally/home
+      link: /about
 
 features:
   - title: 科学养成好习惯
