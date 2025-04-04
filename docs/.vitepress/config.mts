@@ -29,42 +29,85 @@ export default defineConfig({
         text: '准备工作',
         collapsed: false,
         items: [
-           
+          { text: '注册与登录', link: '/habit/register_login' },
+      { 
+        text: '个人资料设置', 
+        collapsed: true,
+        items: [
+          { text: '基本信息设置', link: '/habit/profile/basic_info' },
+          { text: '个性化设置', link: '/habit/profile/personalization' },
+          { text: '账号关联管理', link: '/habit/profile/account_linking' }
+        ] 
+      },
+      { text: '应用权限设置', link: '/habit/app_permissions' },
+      { 
+        text: '数据同步与备份', 
+        collapsed: true,
+        items: [
+          { text: '数据同步', link: '/habit/data/sync' },
+          { text: '数据备份', link: '/habit/data/backup' },
+          { text: '数据恢复', link: '/habit/data/recovery' }
+        ] 
+      },
+      { text: '界面导航说明', link: '/habit/navigation_guide' }
         ]
       },
       {
         text: '习惯养成',
         collapsed: false,
         items: [
-           
+          { text: '创建一个目标', link: '/habit/create_goal' },
+          { text: '创建习惯计划', link: '/habit/create_habit_plan' },
+          { text: '习惯完成的奖励', link: '/habit/habit_rewards' },
+          { text: '坏习惯识别', link: '/habit/bad_habit_identify' },
+          { text: '替代策略', link: '/habit/habit_replacement' },
+          { text: '环境优化', link: '/habit/environment_design' },
+          { text: '进度追踪', link: '/habit/breaking_habit_tracking' },
+          { text: '应对渴望', link: '/habit/craving_management' }
         ]
       },
       {
         text: '时间管理',
         collapsed: false,
         items: [
-           
+          { text: '锁机功能', link: '/habit/lock_screen' },
+          { text: '番茄计时', link: '/habit/pomodoro' },
+          { text: '倒数日', link: '/habit/countdown' },
+          { text: '日程安排', link: '/habit/schedule' },
+          { text: '时间统计', link: '/habit/time_statistics' }
         ]
       },
       {
         text: '数据管理',
         collapsed: false,
         items: [
-           
+          { text: '习惯数据追踪', link: '/habit/habit_tracking' },
+          { text: '习惯提醒', link: '/habit/habit_reminder' },
+          { text: '习惯日记', link: '/habit/habit_journal' },
+          { text: '数据分析', link: '/habit/data_analysis' },
+          { text: '数据导出', link: '/habit/data_export' }
         ]
       },
       {
         text: '个性化设置',
         collapsed: false,
         items: [
-           
+          { text: '主题设置', link: '/habit/theme_settings' },
+          { text: '通知设置', link: '/habit/notification_settings' },
+          { text: '语言设置', link: '/habit/language_settings' },
+          { text: '隐私设置', link: '/habit/privacy_settings' },
+          { text: '账号管理', link: '/habit/account_management' }
         ]
       },
       {
         text: '会员购买',
         collapsed: false,
         items: [
-           
+          { text: '会员权益', link: '/habit/membership_benefits' },
+          { text: '购买指南', link: '/habit/purchase_guide' },
+          { text: '支付方式', link: '/habit/payment_methods' },
+          { text: '发票申请', link: '/habit/invoice_request' },
+          { text: '退款政策', link: '/habit/refund_policy' }
         ]
       },
       {

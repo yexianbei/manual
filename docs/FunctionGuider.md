@@ -1,26 +1,46 @@
 # 功能导游
 
-如果你是小习惯的新用户，想开始培养好习惯，戒掉坏习惯。
+如果你是小习惯的新用户，想开始培养好习惯，戒掉坏习惯，以下是主要功能的分类介绍：
 
-- [创建一个目标](/habit/create_goal.md)
+## 一、习惯养成核心功能
 
-- [创建习惯计划](/habit/create_habit_plan.md)
+1. [创建一个目标](/habit/create_goal.md) - 设定明确、可衡量的目标，为习惯养成提供方向和动力
 
-- [创建习惯完成的奖励](/habit/habit_rewards.md)
+2. [创建习惯计划](/habit/create_habit_plan.md) - 基于《微习惯》和《原子习惯》理论，设计科学的习惯计划，让好习惯更容易坚持
 
-辅助习惯养成的工具：
+3. [创建习惯完成的奖励](/habit/habit_rewards.md) - 设置个性化奖励机制，强化习惯行为，提高坚持的动力
 
-- [锁机（限制你玩手机）](/habit/lock_screen.md)
+## 二、专注与时间管理工具
 
-- [番茄计时（管理自己的习惯时间）](/habit/pomodoro.md)
+1. [锁机功能](/habit/lock_screen.md) - 在设定的时间内限制手机使用，帮助你远离干扰，专注于当前任务
 
-- [习惯数据追踪](/habit/habit_tracking.md)
+2. [番茄计时](/habit/pomodoro.md) - 通过25分钟工作+5分钟休息的循环，提高工作效率和专注力
 
-- [习惯提醒](/habit/habit_reminder.md)
+3. [倒数日](/habit/countdown.md) - 直观展示距离重要日期的剩余天数，增强时间紧迫感
 
-- [倒数日（提醒自己的deadline）](/habit/countdown.md)
+## 三、习惯追踪与反馈工具
 
-- [习惯日记（复盘）](/habit/habit_journal.md)
+1. [习惯数据追踪](/habit/habit_tracking.md) - 全面记录和分析习惯执行情况，让你清晰了解自己的进步轨迹
+
+2. [习惯提醒](/habit/habit_reminder.md) - 智能化的提醒系统，确保你不会错过任何习惯执行的时机
+
+3. [习惯日记](/habit/habit_journal.md) - 记录习惯执行的过程和感受，通过定期复盘优化习惯养成策略
+
+## 四、戒除坏习惯指南
+
+戒除坏习惯与培养好习惯同样重要，小习惯App提供了专门的功能帮助你摆脱不良习惯：
+
+1. [坏习惯识别](/habit/bad_habit_identify.md) - 帮助你识别并记录需要戒除的坏习惯，了解其触发因素和奖励机制
+
+2. [替代策略](/habit/habit_replacement.md) - 用积极的行为替代坏习惯，保留相同的触发因素和奖励，但改变中间的行为
+
+3. [环境优化](/habit/environment_design.md) - 通过调整环境减少坏习惯的触发因素，增加执行坏习惯的阻力
+
+4. [进度追踪](/habit/breaking_habit_tracking.md) - 记录戒除坏习惯的天数和进展，提供可视化的成功体验
+
+5. [应对渴望](/habit/craving_management.md) - 提供应对习惯渴望的实用技巧和冥想练习，帮助度过戒断期
+
+使用小习惯App戒除坏习惯时，建议结合使用锁机功能、习惯提醒和习惯日记，全方位支持你的改变过程。
 
 
 
