@@ -17,7 +17,7 @@ hero:
     #   link: /habit/home
     - theme: sponsor
       text: 常见问题
-      link: /habit/qa
+      link: /habit/basics/qa
     - theme: sponsor
       text: 用户指南
       link: /UserGuider
@@ -30,37 +30,37 @@ features:
     icon:
       src: /icon/ic_new_success.png
     details: 基于《微习惯》与《原子习惯》理论，从小事开始，逐步建立可持续的好习惯
-    link: /habit/theory
+    link: /habit/basics/theory
     linkText: 了解更多
   - title: 高效时间管理
     icon:
       src: /icon/ic_new_flow.png
     details: 结合番茄工作法，智能提醒，帮助你告别拖延，提升专注力和工作效率
-    link: /habit/pomodoro
+    link: /habit/time_management/pomodoro
     linkText: 了解更多
   - title: 数据可视化反馈
     icon:
       src: /icon/ic_new_probability.png
     details: 详细的打卡记录与统计分析，清晰展示你的进步轨迹，优化习惯养成策略
-    link: /habit/data_visualization
+    link: /habit/data_management/data_visualization
     linkText: 了解更多
   - title: 全方位自律提升
     icon:
       src: /icon/ic_new_jifen.png
     details: 从学习打卡到健康管理，支持多样化的习惯养成，打造专属的自律空间
-    link: /habit/self_discipline
+    link: /habit/habit_formation/self_discipline
     linkText: 了解更多
   - title: 智能提醒系统
     icon:
       src: /icon/ic_new_ring.png
     details: 智能化的提醒机制，确保你不会错过任何重要的习惯打卡和目标追踪
-    link: /habit/reminder
+    link: /habit/time_management/reminder
     linkText: 了解更多
   - title: 学霸锁机模式
     icon:
       src: /icon/ic_new_lock.png
     details: 独特的锁机功能，帮助你远离手机干扰，专注于学习和工作
-    link: /habit/focus_mode
+    link: /habit/time_management/focus_mode
     linkText: 了解更多
 ---
 
