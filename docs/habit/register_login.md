@@ -78,4 +78,4 @@
 
 如有其他登录问题，请联系我们的客服团队：support@xiaoxiguan.com
 
-[返回准备工作](/habit/preparation)
+[返回准备工作](/FunctionGuider.md)
