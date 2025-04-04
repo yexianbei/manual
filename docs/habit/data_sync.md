@@ -165,4 +165,4 @@
 
 如有其他数据同步或备份问题，请联系客服：support@xiaoxiguan.com
 
-[返回准备工作](/habit/preparation)
+[返回准备工作](/FunctionGuider.md)

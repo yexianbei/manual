@@ -94,4 +94,4 @@
 
 如有其他问题，请联系客服：support@xiaoxiguan.com
 
-[返回准备工作](/habit/preparation)
+[返回准备工作](/FunctionGuider.md)

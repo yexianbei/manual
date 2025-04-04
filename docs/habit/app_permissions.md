@@ -119,4 +119,4 @@
 
 如有其他权限相关问题，请联系客服：support@xiaoxiguan.com
 
-[返回准备工作](/habit/preparation)
+[返回功能导游](/FunctionGuider.md)

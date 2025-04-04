@@ -162,4 +162,4 @@ App顶部状态栏可能显示以下图标，表示不同状态：
 
 如有其他界面或导航问题，请联系客服：support@xiaoxiguan.com
 
-[返回准备工作](/habit/preparation)
+[返回准备工作](/FunctionGuider.md)
