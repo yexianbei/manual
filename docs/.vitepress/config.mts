@@ -25,33 +25,33 @@ export default defineConfig({
       { text: '使用指南', link: '/UserGuider'},
       { text: '功能导游', link: '/FunctionGuider'},
       { text: '常见问题', link: '/habit/basics/qa' },
-      {
-        text: '准备工作',
-        collapsed: false,
-        items: [
-          { text: '注册与登录', link: '/habit/basics/register_login' },
-      { 
-        text: '个人资料设置', 
-        collapsed: true,
-        items: [
-          { text: '基本信息设置', link: '/habit/settings_privacy/profile_settings' },
-          { text: '个性化设置', link: '/habit/settings_privacy/profile_settings' },
-          { text: '账号关联管理', link: '/habit/settings_privacy/profile_settings' }
-        ] 
-      },
-      { text: '应用权限设置', link: '/habit/settings_privacy/app_permissions' },
-      { 
-        text: '数据同步与备份', 
-        collapsed: true,
-        items: [
-          { text: '数据同步', link: '/habit/data_management/data_sync' },
-          { text: '数据备份', link: '/habit/data_management/data_sync' },
-          { text: '数据恢复', link: '/habit/data_management/data_sync' }
-        ] 
-      },
-      { text: '界面导航说明', link: '/habit/basics/navigation_guide' }
-        ]
-      },
+      // {
+      //   text: '准备工作',
+      //   collapsed: false,
+      //   items: [
+      //     { text: '注册与登录', link: '/habit/basics/register_login' },
+      // { 
+      //   text: '个人资料设置', 
+      //   collapsed: true,
+      //   items: [
+      //     { text: '基本信息设置', link: '/habit/settings_privacy/profile_settings' },
+      //     { text: '个性化设置', link: '/habit/settings_privacy/profile_settings' },
+      //     { text: '账号关联管理', link: '/habit/settings_privacy/profile_settings' }
+      //   ] 
+      // },
+      // { text: '应用权限设置', link: '/habit/settings_privacy/app_permissions' },
+      // { 
+      //   text: '数据同步与备份', 
+      //   collapsed: true,
+      //   items: [
+      //     { text: '数据同步', link: '/habit/data_management/data_sync' },
+      //     { text: '数据备份', link: '/habit/data_management/data_sync' },
+      //     { text: '数据恢复', link: '/habit/data_management/data_sync' }
+      //   ] 
+      // },
+      // { text: '界面导航说明', link: '/habit/basics/navigation_guide' }
+      //   ]
+      // },
       {
         text: '习惯养成',
         collapsed: false,
@@ -59,11 +59,11 @@ export default defineConfig({
           { text: '创建一个目标', link: '/habit/habit_formation/create_goal' },
           { text: '创建习惯计划', link: '/habit/habit_formation/create_habit_plan' },
           { text: '习惯完成的奖励', link: '/habit/habit_formation/habit_rewards' },
-          { text: '坏习惯识别', link: '/habit/habit_formation/bad_habit_identify' },
-          { text: '替代策略', link: '/habit/habit_formation/habit_replacement' },
-          { text: '环境优化', link: '/habit/habit_formation/environment_design' },
-          { text: '进度追踪', link: '/habit/habit_formation/breaking_habit_tracking' },
-          { text: '应对渴望', link: '/habit/habit_formation/craving_management' }
+          // { text: '坏习惯识别', link: '/habit/habit_formation/bad_habit_identify' },
+          // { text: '替代策略', link: '/habit/habit_formation/habit_replacement' },
+          // { text: '环境优化', link: '/habit/habit_formation/environment_design' },
+          // { text: '进度追踪', link: '/habit/habit_formation/breaking_habit_tracking' },
+          // { text: '应对渴望', link: '/habit/habit_formation/craving_management' }
         ]
       },
       {
@@ -85,7 +85,7 @@ export default defineConfig({
           { text: '习惯提醒', link: '/habit/data_management/habit_reminder' },
           { text: '习惯日记', link: '/habit/data_management/habit_journal' },
           { text: '数据分析', link: '/habit/data_management/data_visualization' },
-          { text: '数据导出', link: '/habit/data_management/data_sync' }
+          // { text: '数据导出', link: '/habit/data_management/data_sync' }
         ]
       },
       {
@@ -95,8 +95,8 @@ export default defineConfig({
           { text: '主题设置', link: '/habit/settings_privacy/profile_settings' },
           { text: '通知设置', link: '/habit/settings_privacy/profile_settings' },
           { text: '语言设置', link: '/habit/settings_privacy/profile_settings' },
-          { text: '隐私设置', link: '/habit/settings_privacy/privacy' },
-          { text: '账号管理', link: '/habit/settings_privacy/profile_settings' }
+          // { text: '隐私设置', link: '/habit/settings_privacy/privacy' },
+          // { text: '账号管理', link: '/habit/settings_privacy/profile_settings' }
         ]
       },
       {
@@ -106,7 +106,7 @@ export default defineConfig({
           { text: '会员权益', link: '/habit/settings_privacy/profile_settings' },
           { text: '购买指南', link: '/habit/settings_privacy/profile_settings' },
           { text: '支付方式', link: '/habit/settings_privacy/profile_settings' },
-          { text: '发票申请', link: '/habit/settings_privacy/profile_settings' },
+          // { text: '发票申请', link: '/habit/settings_privacy/profile_settings' },
           { text: '退款政策', link: '/habit/settings_privacy/profile_settings' }
         ]
       },
