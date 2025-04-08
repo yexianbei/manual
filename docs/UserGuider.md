@@ -6,6 +6,9 @@
 
 如果这份文档没有覆盖到你的使用场景，欢迎你通过邮件 252837151@qq.com 来与我联系，我需要各位同我一起让这份文档变得更加完善，感谢你的帮助。
 
+## 视频教程
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113441226427049&bvid=BV1aeDSYhEf1&cid=26655589436&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
 当然，也感恩正在阅读该指南的你，希望你使用小习惯用的开心。
 
 # 关于小习惯
