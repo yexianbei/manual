@@ -3,11 +3,11 @@
 layout: home
 
 hero:
-  name: "小习惯App"
-  text: "欢迎下载体验"
+  name: "<span class=\"gradient-text\">小习惯App</span>"
+  # text: "欢迎下载体验"
   tagline: 改变从此刻开始
   image:
-    src: /icon/taiyang.svg
+    src: /qrcode2.png
     alt: 小习惯
     width: 200
     height: 200
