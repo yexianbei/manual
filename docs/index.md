@@ -7,7 +7,7 @@ hero:
   # text: "欢迎下载体验"
   tagline: 改变从此刻开始
   image:
-    src: /qrcode2.png
+    src: /qrcode/download_qrcode2.png
     alt: 小习惯
     width: 200
     height: 200

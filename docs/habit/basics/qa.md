@@ -1,19 +1,15 @@
 # 常见问题
 
-:::tip 在使用过程中，您可能会遇到一些问题，此处对常见问题做了整理。**强烈建议先检查更新到最新的App**,问题可能在新版本中解决。如果您有任何建议或遇到未在此处列出的问题，欢迎发送邮件至 252837151@qq.com 与我联系。
-
-我们没有专职客服，都是开发者在开发之余回复消息，可能会有延迟。建议您先自行研究问题，这样我才能有更多时间开发新功能和修复bug，感谢理解！
-:::
-
 :::danger 必读：⚠️APP闪退或者出现其他问题⚠️
->
 > 首先一定**不要卸载**小习惯，您可以：
->
 > 1. 在小习惯中【我的】—>【数据备份】，点击备份数据到云端，备份好您的数据
-> 2. 通过邮件或者微信号：yexianbei，联系到我
+> 2. 通过邮件或者该页面底部的微信二维码，联系到我
 > 3. 对于严重的问题我都会第一时间修复
 :::
+:::tip 在使用过程中，您可能会遇到一些问题，此处对常见问题做了整理。**强烈建议先检查更新到最新的App**,问题可能在新版本中解决。如果您有任何建议或遇到未在此处列出的问题，欢迎发送邮件至 252837151@qq.com 与我联系。
 
+我们没有专职客服，是我在开发之余回复消息，可能会有延迟。建议您先自行研究问题，这样我才能有更多时间开发新功能和修复bug，感谢理解！
+:::
 
 <details>
 <summary><b>问题一：不同设备间的数据同步问题（点击查看）</b></summary>
@@ -49,3 +45,33 @@
 >
 > 如有疑问，请保留您的购买凭证，并通过上方提供的邮箱联系我们的客服团队。
 </details>
+
+## 联系我们
+
+如果您依然有任何问题或建议，也欢迎通过以下方式联系我：
+<p style="font-size: 0.8em; color: #888;">工作时间（周一～周五早上九点到下午五点）<br>我看到消息都会回复的。</p>
+
+<div class="qrcode-container" style="display: flex; justify-content: space-around; flex-wrap: wrap; margin: 20px 0;">
+
+  <div class="qrcode-item" style="text-align: center; margin: 10px; width: 200px;">
+    <img src="/qrcode/wechat_group.JPG?url" alt="微信交流群" style="width: 180px; height: auto; border-radius: 8px;">
+    <p><b>微信交流群</b></p>
+    <p style="font-size: 0.9em; color: #666;">扫码添加群主，邀请您加入微信群</p>
+  </div>
+  
+  <div class="qrcode-item" style="text-align: center; margin: 10px; width: 200px;">
+    <img src="/qrcode/wechat.JPG?url" alt="开发者微信" style="width: 180px; height: auto; border-radius: 8px;">
+    <p><b>开发者微信</b></p>
+    <p style="font-size: 0.9em; color: #666;">有紧急问题可直接联系开发者</p>
+  </div>
+</div>
+
+<div class="qrcode-item" style="text-align: center; margin: 10px; width: 200px;">
+    <img src="/qrcode/qq_group.JPG?url" alt="QQ交流群" style="width: 180px; height: auto; border-radius: 8px;">
+    <p><b>QQ交流群</b></p>
+    <p style="font-size: 0.9em; color: #666;">扫码加入用户交流群，分享使用心得</p>
+  </div>
+
+<div style="text-align: center; margin-top: 20px; padding: 10px; background-color: #f5f5f5; border-radius: 8px;">
+  <p style="margin: 0; color: #666;">添加时请注明"小习惯App"，方便我们及时处理您的问题</p>
+</div>
