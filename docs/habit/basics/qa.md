@@ -54,23 +54,22 @@
 <div class="qrcode-container" style="display: flex; justify-content: space-around; flex-wrap: wrap; margin: 20px 0;">
 
   <div class="qrcode-item" style="text-align: center; margin: 10px; width: 200px;">
-    <img src="/qrcode/wechat_group.JPG?url" alt="微信交流群" style="width: 180px; height: auto; border-radius: 8px;">
+    <img src="/qrcode/wechat_group.png?url" alt="微信群" style="width: 180px; height: auto; border-radius: 8px;">
     <p><b>微信交流群</b></p>
-    <p style="font-size: 0.9em; color: #666;">扫码添加群主，邀请您加入微信群</p>
   </div>
-  
-  <div class="qrcode-item" style="text-align: center; margin: 10px; width: 200px;">
-    <img src="/qrcode/wechat.JPG?url" alt="开发者微信" style="width: 180px; height: auto; border-radius: 8px;">
-    <p><b>开发者微信</b></p>
-    <p style="font-size: 0.9em; color: #666;">有紧急问题可直接联系开发者</p>
-  </div>
-</div>
+
 
 <div class="qrcode-item" style="text-align: center; margin: 10px; width: 200px;">
-    <img src="/qrcode/qq_group.JPG?url" alt="QQ交流群" style="width: 180px; height: auto; border-radius: 8px;">
+    <img src="/qrcode/qq_group.png?url" alt="QQ群" style="width: 180px; height: auto; border-radius: 8px;">
     <p><b>QQ交流群</b></p>
-    <p style="font-size: 0.9em; color: #666;">扫码加入用户交流群，分享使用心得</p>
   </div>
+
+  <div class="qrcode-item" style="text-align: center; margin: 10px; width: 200px;">
+    <img src="/qrcode/wechat.png?url" alt="开发者微信" style="width: 180px; height: auto; border-radius: 8px;">
+    <p><b>开发者微信</b></p>
+    <p style="font-size: 0.8em; color: #666;">有紧急问题可直接联系开发者</p>
+  </div>
+</div>
 
 <div style="text-align: center; margin-top: 20px; padding: 10px; background-color: #f5f5f5; border-radius: 8px;">
   <p style="margin: 0; color: #666;">添加时请注明"小习惯App"，方便我们及时处理您的问题</p>
