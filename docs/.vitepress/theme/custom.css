@@ -5,3 +5,8 @@
   -webkit-text-fill-color: transparent;
   text-fill-color: transparent;
 }
+
+/* 调整正文段落字体大小 */
+:root {
+  --vp-font-size-base: 15px; /* 或者尝试 14px */
+}
