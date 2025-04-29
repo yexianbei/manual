@@ -74,7 +74,10 @@ export default defineConfig({
           { text: '番茄计时', link: '/habit/time_management/pomodoro' },
           { text: '倒数日', link: '/habit/time_management/countdown' },
           { text: '日程安排', link: '/habit/time_management/schedule' },
-          { text: '时间统计', link: '/habit/time_management/time_statistics' }
+          { text: '时间统计', link: '/habit/time_management/time_statistics' },
+          { text: 'iOS学霸模式帮助', link: '/habit/time_management/ios_study_mode' },
+          { text: 'iOS学霸-拦截模式使用提示', link: '/habit/time_management/ios_study_mode_usage' },
+          { text: 'iOS学霸-拦截模式常见问题', link: '/habit/time_management/ios_study_mode_faq' }
         ]
       },
       {
