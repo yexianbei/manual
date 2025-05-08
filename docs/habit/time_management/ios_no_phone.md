@@ -80,5 +80,3 @@ https://developer.apple.com/documentation/ManagedSettings
 ---
 
 通过"iOS不玩手机"模式，您可以更科学地管理手机使用时间，养成良好的专注和作息习惯。
-
-[返回时间管理](/habit/time_management/) 
