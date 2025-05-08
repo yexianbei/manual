@@ -77,7 +77,8 @@ export default defineConfig({
           { text: '时间统计', link: '/habit/time_management/time_statistics' },
           { text: 'iOS学霸模式帮助', link: '/habit/time_management/ios_study_mode' },
           { text: 'iOS学霸-拦截模式使用提示', link: '/habit/time_management/ios_study_mode_usage' },
-          { text: 'iOS学霸-拦截模式常见问题', link: '/habit/time_management/ios_study_mode_faq' }
+          { text: 'iOS学霸-拦截模式常见问题', link: '/habit/time_management/ios_study_mode_faq' },
+          { text: 'iOS不玩手机使用帮助', link: '/habit/time_management/ios_no_phone' },
         ]
       },
       {
