@@ -14,9 +14,11 @@
 
 1. [锁机功能](/habit/time_management/lock_screen.md) - 在设定的时间内限制手机使用，帮助你远离干扰，专注于当前任务
 
-2. [番茄计时](/habit/time_management/pomodoro.md) - 通过25分钟工作+5分钟休息的循环，提高工作效率和专注力
+2. [iOS学霸模式](/habit/time_management/ios_study_mode.md) - 专为iOS用户设计的专注功能，支持拦截App模式和提醒模式，有效减少使用手机时的干扰
 
-3. [倒数日](/habit/time_management/countdown.md) - 直观展示距离重要日期的剩余天数，增强时间紧迫感
+3. [番茄计时](/habit/time_management/pomodoro.md) - 通过25分钟工作+5分钟休息的循环，提高工作效率和专注力
+
+4. [倒数日](/habit/time_management/countdown.md) - 直观展示距离重要日期的剩余天数，增强时间紧迫感
 
 ## 三、习惯追踪与反馈工具
 
