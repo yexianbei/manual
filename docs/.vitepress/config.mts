@@ -107,11 +107,11 @@ export default defineConfig({
         text: '会员购买',
         collapsed: false,
         items: [
-          { text: '会员权益', link: '/habit/settings_privacy/profile_settings' },
-          { text: '购买指南', link: '/habit/settings_privacy/profile_settings' },
-          { text: '支付方式', link: '/habit/settings_privacy/profile_settings' },
+          // { text: '会员权益', link: '/habit/settings_privacy/profile_settings' },
+          // { text: '购买指南', link: '/habit/settings_privacy/profile_settings' },
+          // { text: '支付方式', link: '/habit/settings_privacy/profile_settings' },
           // { text: '发票申请', link: '/habit/settings_privacy/profile_settings' },
-          { text: '退款政策', link: '/habit/settings_privacy/profile_settings' },
+          // { text: '退款政策', link: '/habit/settings_privacy/profile_settings' },
           { text: 'iOS会员权益说明', link: '/habit/vip/ios_vip_description' },
           { text: 'iOS取消订阅', link: '/habit/vip/ios_cancel_subscription' },
           { text: 'iOS申请退款', link: '/habit/vip/ios_refund' },
@@ -122,7 +122,8 @@ export default defineConfig({
         collapsed: false,
         items: [
           { text: '隐私政策', link: '/habit/settings_privacy/privacy' },
-          { text: '用户协议', link: '/habit/settings_privacy/service' }
+          { text: '用户协议', link: '/habit/settings_privacy/service' },
+          { text: '会员服务协议', link: '/habit/settings_privacy/vip_service' }
         ]
       },
     ],
