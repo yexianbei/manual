@@ -8,5 +8,48 @@
 
 /* 调整正文段落字体大小 */
 :root {
-  --vp-font-size-base: 15px; /* 或者尝试 14px */
+  --vp-font-size-base: 14px; /* 减小基础字体大小 */
+  --vp-c-text-1: rgba(60, 60, 60, 0.95); /* 稍微加深文本颜色，提高小字体下的可读性 */
+  --vp-c-text-2: rgba(60, 60, 60, 0.75);
+  line-height: 1.6; /* 适当增加行高，提高可读性 */
+}
+
+/* 优化引用块样式，使示例更紧凑 */
+blockquote {
+  border-left: 2px solid var(--vp-c-brand);
+  padding-left: 12px;
+  margin: 12px 0;
+  font-size: 13px;
+  color: var(--vp-c-text-1);
+  background-color: rgba(240, 240, 240, 0.2);
+  padding: 8px 12px;
+  border-radius: 4px;
+}
+
+/* 优化列表样式，减少间距 */
+ul, ol {
+  padding-left: 1.2em;
+  margin: 8px 0;
+}
+
+li {
+  margin: 4px 0;
+  font-size: 13.5px;
+}
+
+/* 优化段落间距 */
+p {
+  margin: 8px 0;
+}
+
+/* 调整标题间距 */
+h3, h4, h5 {
+  margin-top: 20px;
+  margin-bottom: 12px;
+}
+
+/* 减小示例部分的字体大小 */
+.feature_guides blockquote p {
+  font-size: 13px;
+  line-height: 1.5;
 }
