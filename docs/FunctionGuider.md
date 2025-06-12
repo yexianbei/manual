@@ -56,7 +56,9 @@
 
 4. [理论基础](/habit/basics/theory.md) - 了解小习惯App背后的科学理论，帮助你更有效地培养习惯
 
-5. [常见问题](/habit/basics/qa.md) - 解答使用过程中的常见疑问，提供即时帮助
+5. [基础使用教程](/habit/basics/basic_tutorial.md) - 学习如何添加、删除和编辑习惯的基本操作
+
+6. [常见问题](/habit/basics/qa.md) - 解答使用过程中的常见疑问，提供即时帮助
 
 ## 六、设置与隐私
 
@@ -69,6 +71,12 @@
 3. [隐私政策](/habit/settings_privacy/privacy.md) - 了解我们如何保护你的个人数据和隐私安全
 
 4. [服务条款](/habit/settings_privacy/service.md) - 了解使用小习惯App的相关条款和规定
+
+## 七、功能指南
+
+小习惯App提供了详细的功能指南，帮助你更好地理解和使用各项功能：
+
+1. [习惯类型使用指南](/feature_guides/habit_types.md) - 了解目标型、习惯型和任意型三种不同习惯类型的特点和适用场景
 
 
 

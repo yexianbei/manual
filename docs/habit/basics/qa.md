@@ -12,7 +12,23 @@
 :::
 
 <details>
-<summary><b>问题一：不同设备间的数据同步问题（点击查看）</b></summary>
+<summary><b>问题一：基础使用教程（点击查看）</b></summary>
+
+> **回答：**
+>
+> 我们正在陆续补充小习惯App的基础使用教程，目前已包含以下内容：
+>
+> - 如何新增习惯
+> - 如何删除习惯
+> - 如何编辑习惯
+>
+> 您可以点击[基础使用教程](/habit/basics/basic_tutorial.md)查看详细的操作指南。
+>
+> 我们将持续更新更多基础教程内容，帮助您更好地使用小习惯App。如有特定功能的使用疑问，欢迎通过下方联系方式告诉我们。
+</details>
+
+<details>
+<summary><b>问题二：不同设备间的数据同步问题（点击查看）</b></summary>
 
 > **回答：**
 >
@@ -30,7 +46,7 @@
 </details>
 
 <details>
-<summary><b>问题二：关于会员权益与账号问题（点击查看）</b></summary>
+<summary><b>问题三：关于会员权益与账号问题（点击查看）</b></summary>
 
 > **回答：**
 >
@@ -47,7 +63,7 @@
 </details>
 
 <details>
-<summary><b>问题三：安卓闹钟提醒问题（点击查看）</b></summary>
+<summary><b>问题四：安卓闹钟提醒问题（点击查看）</b></summary>
 
 > **回答：**
 >
@@ -62,7 +78,7 @@
 </details>
 
 <details>
-<summary><b>问题四：iOS版计时结束无声音（点击查看）</b></summary>
+<summary><b>问题五：iOS版计时结束无声音（点击查看）</b></summary>
 
 > **回答：**
 >
