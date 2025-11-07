@@ -118,10 +118,10 @@
 
 <div class="qrcode-container" style="display: flex; justify-content: space-around; flex-wrap: wrap; margin: 20px 0;">
 
-  <div class="qrcode-item" style="text-align: center; margin: 10px; width: 200px;">
+  <!-- <div class="qrcode-item" style="text-align: center; margin: 10px; width: 200px;">
     <img src="/qrcode/wechat_group.png?url" alt="微信群" style="width: 180px; height: auto; border-radius: 8px;">
     <p><b>微信交流群</b></p>
-  </div>
+  </div> -->
 
 
 <div class="qrcode-item" style="text-align: center; margin: 10px; width: 200px;">
