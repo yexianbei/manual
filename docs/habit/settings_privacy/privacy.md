@@ -85,6 +85,7 @@ next:
 | 微信支付SDK | 提供会员开通支付服务 | 由腾讯公司提供，其不会收集您的个人信息，仅会获取您的微信登录状态以及是否安装微信来用于正常的微信支付流程。[《微信支付SDK隐私政策》](https://pay.weixin.qq.com/index.php/public/apply_sign/protocol_v2)。 |
 | 微信登录SDK | 提供微信授权登陆服务 | 由腾讯公司提供，其会获取您的微信昵称、头像、三方授权唯一标识、您的微信登录状态以及是否安装微信，目的用于保障您的正常微信登录流程。[《微信登陆服务协议》](https://open.weixin.qq.com/cgi-bin/frame?t=news/protocol_developer_tmpl)。 |
 | 阿里巴巴SDK | 提供云端数据存储功能 | 由阿里巴巴的阿里云提供的os，数据存储服务，SD卡数据，在您的允许下，存储您的打卡记录数据到SD卡。[《阿里巴巴sdk，阿里云对象存储oss》](https://help.aliyun.com/zh/oss/)。 |
+| 阿里问题反馈SDK | 提供应用内问题反馈功能 | 为了帮助开发者更好地诊断和解决应用问题，该SDK可能会收集您的设备信息（如型号、操作系统版本）、应用版本信息、网络状态以及您主动提交的反馈内容（包括文字、图片、联系方式）。[《阿里巴巴隐私权政策》](https://terms.alicdn.com/legal-agreement/terms/suit_bu1_ali_cloud/suit_bu1_ali_cloud202112211045_86490.html)。 |
 
 （二）转让
 
